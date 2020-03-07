@@ -37,12 +37,7 @@ SOFTWARE.
 #include <string>
 #include <iostream>
 #include <fstream>
-#include <ctime>
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 #include <sys/stat.h>
-#include <limits>
 //#include <direct.h>
 
 namespace sff_ex
